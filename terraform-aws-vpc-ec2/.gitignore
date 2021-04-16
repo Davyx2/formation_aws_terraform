@@ -1,0 +1,10 @@
+.terraform
+ssh/
+.idea
+*.tfstate
+*.tfstate.lock.info
+*.tfstate.backup
+*.bin
+.vscode
+inventory
+*.iml
